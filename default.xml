@@ -430,10 +430,7 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
-  <project path="vendor/asus" name="android_vendor_asus" remote="moongato" revision="kk44" />
-  <project path="vendor/lge" name="android_vendor_lge" remote="moongato" revision="kk44" />
   <project path="vendor/rascarlo" name="android_vendor_rascarlo" remote="moongato" revision="kk44" />
-
 
 <!-- gcc 4.8 -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="PurityROM/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" remote="gh" revision="master" />
