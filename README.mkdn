@@ -1,3 +1,6 @@
+Original RastaKat recipe by Rascarlo,
+spiced up just a bit
+
 repo init -u https://github.com/moongato/android_manifest.git -b kk44
 
 <img src="https://raw.github.com/rascarlo/android_manifest/jb-ras-mr2.0/LionOfJudah.png">
