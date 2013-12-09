@@ -3,4 +3,17 @@ spiced up just a bit
 
 repo init -u https://github.com/moongato/android_manifest.git -b kk44
 
+some changes from stock:
+removed email/exchange
+4 columns on quick settings on mako
+-03 optimization
+shows lte instead of 4g
+non intrusive incall ui
+cm calculator
+odexed user builds
+delete screenshot from status bar
+moto-x davlik & bionic patch
+additional dalvik, bionic & skia tweaks
+.25 & .75 animation scales added
+
 <img src="https://raw.github.com/rascarlo/android_manifest/jb-ras-mr2.0/LionOfJudah.png">
