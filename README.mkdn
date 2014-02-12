@@ -12,7 +12,7 @@ non intrusive incall ui,
 cm calculator,
 odexed user builds,
 delete screenshot from status bar,
-moto-x davlik & bionic patch,
+moto-x davlik patch,
 additional dalvik, bionic & skia tweaks,
 .25 & .75 animation scales added
 
