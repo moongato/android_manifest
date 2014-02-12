@@ -430,6 +430,9 @@
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" />
   <project path="tools/studio/cloud" name="platform/tools/studio/cloud" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
+  <project path="vendor/broadcom" name="android_vendor_broadcom" remote="moongato" revision="kk44" />
+  <project path="vendor/lge" name="android_vendor_lge" remote="moongato" revision="kk44" />
+  <project path="vendor/qcom" name="android_vendor_qcom" remote="moongato" revision="kk44" />
   <project path="vendor/rascarlo" name="android_vendor_rascarlo" remote="moongato" revision="kk44" />
 
 <!-- gcc 4.8 -->
