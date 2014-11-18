@@ -1,6 +1,6 @@
 Manifest for android-5.0.0_r6
 
-repo init -u https://github.com/rascarlo/android_manifest.git -b lollipop-ras-mr1
+repo init -u https://github.com/moongato/android_manifest.git -b lp50x
 
 [@rascarlo](https://twitter.com/rascarlo) on Twitter
 
