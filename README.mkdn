@@ -1,4 +1,4 @@
-Manifest for android-5.0.0_r6
+Manifest for my android-5.0.0_r7 Rastapop fork
 
 repo init -u https://github.com/moongato/android_manifest.git -b lp50x
 
@@ -6,6 +6,6 @@ repo init -u https://github.com/moongato/android_manifest.git -b lp50x
 
 [@rascarlo](https://plus.google.com/+CarloDiNuccio/) on G+
 
-flashable builds can be found on http://fitsnugly.euroskank.com/?rom=rastapop
+Original flashable builds can be found on http://fitsnugly.euroskank.com/?rom=rastapop
 
 <img src="https://raw.github.com/rascarlo/android_manifest/lollipop-ras-mr1/LionOfJudah.png">
