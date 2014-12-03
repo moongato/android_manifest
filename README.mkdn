@@ -1,4 +1,4 @@
-Manifest for my android-5.0.0_r7 Rastapop fork
+Manifest for my android-5.0.1_r1 Rastapop fork
 
 repo init -u https://github.com/moongato/android_manifest.git -b lp50x
 
