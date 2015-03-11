@@ -20,7 +20,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="android_build" remote="omnirom" revision="android-5.1" groups="pdk,tradefed" >
+  <project path="build" name="moongato/android_build" remote="github" revision="lp51o" groups="pdk,tradefed" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
