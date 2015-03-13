@@ -11,7 +11,7 @@
            remote="aosp"
            sync-j="4" />
 
-  <project path="build" name="moongato/platform_build" groups="pdk,tradefed" remote="github" revision="lp51x" >
+  <project path="build" name="moongato/android_build" groups="pdk,tradefed" remote="github" revision="lp51x" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
